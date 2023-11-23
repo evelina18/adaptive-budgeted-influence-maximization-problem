@@ -1,0 +1,19 @@
+{
+    "time_horizon": 10,
+    "budget": 1,
+    "lambda": 0.1,
+    "graph_type": {
+        "name": "barabasi_albert",
+        "n_nodes": 1000,
+        "stub": 10
+    },
+    "cost_type": {
+        "cost_name": "proportional",
+        "max_price": 1
+    },
+    "influence_model":{
+        "type": "ICM",
+        "max_influence_prob": 0.1
+    },
+    "seed": 0
+}
