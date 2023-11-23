@@ -166,8 +166,7 @@ Each one of them can be created by the following lines to be added in the config
     },
 ~~~
 
-In the folder *real_instances* we add the *p2p-Gnutella04*, *Slashdot0811*, *Slashdot0902*, *soc-Epinions1*, *twitter_combined*, and *Wiki-Vote* since the size of the network enables them to be loaded. The other graphs used in the paper can be downloaded from the following links:
-- [Lazovec](https://snap.stanford.edu/data/web-Stanford.html)
+In the folder *real_instances* you can add the real graph files we add the *p2p-Gnutella04* as an example. The other graphs used in the paper can be downloaded from the following links:
 - [soc-Epinions1](https://snap.stanford.edu/data/soc-Epinions1.html)
 - [soc-Slashdot0811](https://snap.stanford.edu/data/soc-Slashdot0811.html)
 - [soc-Slashdot0902](https://snap.stanford.edu/data/soc-Slashdot0902.html)
