@@ -1,0 +1,4 @@
+gym==0.26.2
+networkx==3.2.1
+numpy==1.26.1
+matplotlib==3.8.1
