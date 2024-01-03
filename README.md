@@ -17,14 +17,15 @@ The paper describing the solution methods and the results is:
 
 ```Bibtex
 @misc{,
-  doi = {},
-  url = {},
+  doi = {10.1002/net.22206},
+  url = {http://dx.doi.org/10.1002/net.22206},
   author = {Fadda, Edoardo and Di Corso, Evelina and Brusco, Davide and Aelenei, Vlad Stefan and Balan Rares, Alexandru},
   keywords = {Optimization and Control (math.OC), FOS: Mathematics},
   title = {Math-based Reinforcement Learning for the Adaptive Budgeted Influence Maximization Problem},
-  publisher = {},
-  journal={},
-  year = {2024},
+  ISSN = {1097-0037},
+  publisher = {Wiley Online Library},
+  journal={Networks},
+  year = {2023},
   copyright = {}
 }
 ```
